@@ -7,4 +7,4 @@ Para rodar esse projeto na sua máquina, por favor digite:
 ```
 node app.js
 ```
-:)
+:) alterando remotamente para depois digitar o git pull
